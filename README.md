@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @brenlowe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Front End Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Brennon
+- 👀 I’m interested in learning more about web design and web development.
+- 🌱 I’m currently learning JavaScript.
+- 📫 How to reach me: brennonlowe.com
 
 <!---
 brenlowe/brenlowe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
