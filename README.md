@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brennon
-- 👀 I’m interested in learning more about web design and advanced web development.
-- 🌱 I’m currently learning JavaScript, React and how to work in a efficient workflow.
+- 👀 I’m interested in learning as much as I can about web app development front and back.
+- 🌱 I’m currently delving in JavaScript, React and how to work in a efficient workflow.
 - 📫 How to reach me: www.brennonlowe.com or brennonlowe99@gmail.com
 
 <!---
