@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Brennon
-- 👀 I’m interested in learning as much as I can about building apps in the front-end web space.
-- 🌱 I’m comfortable in html & css and currently diving into JavaScript and React.
+### Hi, I’m Brennon
+#### Passionate web developer with a drive for creating, learning, and building web solutions. Problem-solver, organized and an eye for detail, I strive to create the best user experiences.
 - 📫 How to reach me: www.brennonlowe.com or brennonlowe99@gmail.com
 
 <!---
